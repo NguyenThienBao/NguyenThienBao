@@ -1,12 +1,13 @@
 ## Software Engineer | Specializing in Fullstack Cloud-Native Systems & Secure Architecture
 
-Technical Stack / Tools:
+# Technical Stack / Tools:
+
 * TypeScript
 * Terraform
 * RAG / Vector Databases
 * Structured Observability & Security
 
-Milestones
+# Milestones
 
 25/04/2026
 * Foundation & Discipline - 0%
