@@ -10,7 +10,7 @@
 # Milestones
 
 25/04/2026
-* Foundation & Discipline - 0%
+* Network Foundation & Discipline - 0%
 * Full-Stack & Observability
 * Cloud, IaC & AI Infrastructure
 * AI-Native Feature & Security
